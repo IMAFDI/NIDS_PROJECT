@@ -152,7 +152,7 @@ You can add screenshots of your output or process to make it more user-friendly.
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project in not been licensed unber any License. You can are free to use and give your inputs.
 
 ---
 
