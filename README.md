@@ -2,6 +2,7 @@
 # Network Intrusion Detection System (NIDS) 🔒
 
 ![NIDS Overview](https://media.geeksforgeeks.org/wp-content/uploads/20220630185949/NIDS.png)  
+*(The image is taken from GeeksforGeeks )*
 
 
 ## Introduction
@@ -13,8 +14,8 @@ This project implements a **Network Intrusion Detection System (NIDS)** using **
 - **Anomaly-based Detection**: Machine learning-based detection of abnormal network behavior.
 - **Alerting & Logging**: Comprehensive logging and alerting on potential intrusions.
 
-![Intrusion Detection Flow](https://yourimageurl.com/intrusion_flow.png)  
-*(Add a flow diagram to show the steps of packet capture, detection, and alerting)*
+![Intrusion Detection Flow]([https://yourimageurl.com/intrusion_flow.png](https://www.researchgate.net/publication/320654731/figure/fig1/AS:554082639515648@1509115003229/Data-flow-diagram-of-the-psniffer.png))  
+*(A flow diagram to show the steps of packet capture, detection, and alerting)*
 
 ---
 
