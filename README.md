@@ -1,8 +1,8 @@
 
 # Network Intrusion Detection System (NIDS) 🔒
 
-![NIDS Overview](https://yourimageurl.com/nids_overview.png)  
-*(Add a network security image to visually represent the project)*
+![NIDS Overview]([https://yourimageurl.com/nids_overview.png](https://media.geeksforgeeks.org/wp-content/uploads/20220630185949/NIDS.png))  
+
 
 ## Introduction
 This project implements a **Network Intrusion Detection System (NIDS)** using **Scapy** to monitor network traffic and detect potential intrusions. The system performs both **signature-based detection** and **anomaly-based detection** to identify suspicious activities in real-time, providing alerts and logs for further analysis.
