@@ -14,7 +14,7 @@ This project implements a **Network Intrusion Detection System (NIDS)** using **
 - **Anomaly-based Detection**: Machine learning-based detection of abnormal network behavior.
 - **Alerting & Logging**: Comprehensive logging and alerting on potential intrusions.
 
-![Intrusion Detection Flow](https://drive.google.com/file/d/1SCEUS06-pnuw0mJjAww8xKJzdEQrG18n/view?usp=sharinghttps://drive.google.com/file/d/1SCEUS06-pnuw0mJjAww8xKJzdEQrG18n/view?usp=sharing)
+![Intrusion Detection Flow](https://ibb.co/p0WSTr7)
 *(A flow diagram to show the steps of packet capture, detection, and alerting)*
 
 ---
