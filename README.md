@@ -14,7 +14,7 @@ This project implements a **Network Intrusion Detection System (NIDS)** using **
 - **Anomaly-based Detection**: Machine learning-based detection of abnormal network behavior.
 - **Alerting & Logging**: Comprehensive logging and alerting on potential intrusions.
 
-![Intrusion Detection Flow](https://files.oaiusercontent.com/file-XyQrSr9lrumFi32kKRnNeQur?se=2024-09-07T11%3A57%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dpacket_capture_detection_alerting_flow.png&sig=yzPvu5yK/bFb0btmBo7rH%2BLiUQICleFjpAdV/MTRsqY%3D)
+![Intrusion Detection Flow](https://drive.google.com/file/d/1SCEUS06-pnuw0mJjAww8xKJzdEQrG18n/view?usp=sharinghttps://drive.google.com/file/d/1SCEUS06-pnuw0mJjAww8xKJzdEQrG18n/view?usp=sharing)
 *(A flow diagram to show the steps of packet capture, detection, and alerting)*
 
 ---
@@ -143,7 +143,7 @@ If an intrusion is found, the system logs it and sends an alert, which can be fu
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
 You can add screenshots of your output or process to make it more user-friendly.
 
@@ -153,7 +153,7 @@ You can add screenshots of your output or process to make it more user-friendly.
 ---
 
 ## License
-This project in not been licensed unber any License. You can are free to use and give your inputs.
+This project in not been licensed under any License. You can are free to use and give your inputs.
 
 ---
 
