@@ -144,15 +144,6 @@ If an intrusion is found, the system logs it and sends an alert, which can be fu
 
 ---
 
-//## Screenshots
-
-//You can add screenshots of your output or process to make it more user-friendly.
-
-//![NIDS Screenshot](https://yourimageurl.com/nids_screenshot.png)  
-//*(Add screenshots from your terminal showcasing packet capture and detection)*
-
-//---
-
 ## License
 This project in not been licensed under any License. You can are free to use and give your inputs.
 
