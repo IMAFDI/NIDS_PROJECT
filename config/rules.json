@@ -1,0 +1,37 @@
+{
+    "rules": [
+      {
+        "id": 1,
+        "description": "Detect TCP SYN flood",
+        "protocol": "tcp",
+        "src_ip": "any",
+        "dst_ip": "any",
+        "src_port": "any",
+        "dst_port": "any",
+        "flags": "SYN",
+        "threshold": 100,
+        "time_window": 60
+      },
+      {
+        "id": 2,
+        "description": "Detect UDP flood",
+        "protocol": "udp",
+        "src_ip": "any",
+        "dst_ip": "any",
+        "src_port": "any",
+        "dst_port": "any",
+        "threshold": 50,
+        "time_window": 30
+      },
+      {
+        "id": 3,
+        "description": "Detect ICMP echo request flood",
+        "protocol": "icmp",
+        "src_ip": "any",
+        "dst_ip": "any",
+        "type": "echo-request",
+        "threshold": 20,
+        "time_window": 10
+      }
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "thresholds": {
+      "tcp_syn_flood": 100,
+      "udp_flood": 50,
+      "icmp_echo_request_flood": 20
+    }
+  }
+
+  
