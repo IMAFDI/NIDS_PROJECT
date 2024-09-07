@@ -1,7 +1,7 @@
 
 # Network Intrusion Detection System (NIDS) 🔒
 
-![NIDS Overview]([https://yourimageurl.com/nids_overview.png](https://media.geeksforgeeks.org/wp-content/uploads/20220630185949/NIDS.png))  
+![NIDS Overview]([https://media.geeksforgeeks.org/wp-content/uploads/20220630185949/NIDS.png])  
 
 
 ## Introduction
