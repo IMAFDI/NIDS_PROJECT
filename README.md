@@ -166,5 +166,3 @@ Feel free to contribute, suggest new features, or report issues. Happy detecting
 - [Network Security Fundamentals](https://en.wikipedia.org/wiki/Network_security)
 
 ---
-
-**Note:** Replace image links and file paths with actual resources once available.
