@@ -39,19 +39,16 @@ pip install -r requirements.txt
 nids_project/
 │
 ├── config/
+|   └── main.py                       # Main execution script
 │   ├── anomaly_thresholds.json   # Anomaly detection thresholds
 │   └── rules.json                # Signature detection rules
-│
-├── models/                       # Trained machine learning models
-│   └── anomaly_model.joblib      # Pre-trained anomaly detection model
-│
-├── scripts/
 │   ├── packet_capture.py         # Handles packet capture
 │   ├── signature_detection.py    # Detects known attack signatures
 │   ├── anomaly_detection.py      # Detects anomalies using ML
 │   └── logging_alerting.py       # Logs and alerts on intrusions
-│
-└── main.py                       # Main execution script
+├── models/                       # Trained machine learning models
+│   └── anomaly_model.joblib      # Pre-trained anomaly detection model
+
 ```
 
 ---
